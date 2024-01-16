@@ -12,10 +12,10 @@ Além disto é bom ter um editor para trabalhar com o código, como o [VSCode](h
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/eusouolukkas/todo-list-back>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd tarefas-back
 
 # Instale as dependências
 $ yarn
